@@ -1,7 +1,7 @@
 # ReactJS GraphQL Boilerplate
 
 ## Backend
-You can find the backend(ExpressJS, NodeJS GraphQL) [here](https://github.com/sanjeet05/nodejs_gql)
+You can find the backend(ExpressJS, NodeJS GraphQL) [here.](https://github.com/sanjeet05/nodejs_gql)
 
 ## Usage
 
