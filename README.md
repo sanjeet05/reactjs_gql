@@ -1,8 +1,4 @@
-# [Sanjeet - Portfolio](https://sanjeet05.github.io/portfolio/)
-
-
-**[View Live Preview](https://sanjeet05.github.io/portfolio/)**
-
+# ReactJS GraphQL Boilerplate
 
 ## Usage
 
